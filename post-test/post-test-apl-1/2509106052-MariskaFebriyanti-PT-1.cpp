@@ -85,7 +85,7 @@ int main(){
         
         if (ulangi == "tidak" || ulangi == "t" || ulangi == "Tidak" || ulangi == "T" || ulangi == "TIDAK") {
             cout << "Terima kasih! Program selesai." << endl;
-            cout << "(˶ᵔ ᵕ ᵔ˶)" ;
+            cout << " (˶ᵔ ᵕ ᵔ˶) " ;
             break;
         } else if (ulangi == "ya" || ulangi == "y" || ulangi == "Ya" || ulangi == "Y" || ulangi == "YA") {
             system("cls");
